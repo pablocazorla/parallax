@@ -1,9 +1,15 @@
 $('document').ready(function(){
+	hljs.configure({
+	  'tabReplace': '  '
+	});
+	$('pre').each(function(i, block) {
+		hljs.highlightBlock(block);
+	});
 
-	$('.a-par').parallax();
+	$('.parall').parallax();
 
 
-
+	$('.carousel').carousel();
 
 
 
