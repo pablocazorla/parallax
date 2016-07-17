@@ -1,0 +1,132 @@
+/**** TEXT ALIGN ********************************/
+.align-left,
+.text-align-left {
+  text-align: left;
+}
+.align-center,
+.text-align-center {
+  text-align: center;
+}
+.align-right,
+.text-align-right {
+  text-align: right;
+}
+.align-justify,
+.text-align-justify {
+  text-align: justify;
+}
+.font-style-normal {
+  font-style: normal;
+}
+.font-style-italic,
+.italic {
+  font-style: italic;
+}
+.font-weight-normal {
+  font-weight: normal;
+}
+.font-weight-bold,
+.bold {
+  font-weight: bold;
+}
+.font-weight-bolder,
+.bolder {
+  font-weight: bolder;
+}
+.font-weight-light,
+.font-weight-lighter,
+.light,
+.lighter {
+  font-weight: lighter;
+}
+.text-decoration-none {
+  text-decoration: none;
+}
+.text-decoration-underline,
+.underline {
+  text-decoration: underline;
+}
+.text-decoration-overline,
+.overline {
+  text-decoration: overline;
+}
+.text-decoration-line-through,
+.line-through {
+  text-decoration: line-through;
+}
+.text-transform-none {
+  text-transform: none;
+}
+.text-transform-capitalize,
+.capitalize {
+  text-transform: capitalize;
+}
+.text-transform-uppercase,
+.uppercase {
+  text-transform: uppercase;
+}
+.text-transform-lowercase,
+.lowercase {
+  text-transform: lowercase;
+}
+.vertical-align-baseline,
+.baseline {
+  vertical-align: baseline;
+}
+.vertical-align-sub,
+.sub {
+  vertical-align: sub;
+}
+.vertical-align-super,
+.super,
+.sup {
+  vertical-align: super;
+}
+.vertical-align-top {
+  vertical-align: top;
+}
+.vertical-align-middle {
+  vertical-align: top;
+}
+.vertical-align-bottom {
+  vertical-align: top;
+}
+/**** SPACING BREAK ********************************/
+.white-space-normal {
+  white-space: normal;
+}
+.white-space-nowrap,
+.nowrap {
+  white-space: nowrap;
+}
+.white-space-pre {
+  white-space: pre;
+}
+.white-space-pre-line {
+  white-space: pre-line;
+}
+.white-space-pre-wrap {
+  white-space: pre-wrap;
+}
+.word-break-normal {
+  word-break: normal;
+}
+.word-break-break-all {
+  word-break: break-all;
+}
+.word-break-keep-all {
+  word-break: keep-all;
+}
+.word-wrap-normal {
+  word-wrap: normal;
+}
+.word-wrap-break-word {
+  word-wrap: break-word;
+}
+/**** USER SELECTION ********************************/
+.user-select-none {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
